@@ -18,8 +18,8 @@ from aiogram.types import (
 
 # ======================= НАСТРОЙКИ =======================
 
-BOT_TOKEN = "ВАШ_ТОКЕН_ЗДЕСЬ"          # токен от @BotFather
-ADMIN_ID = 123456789                   # ваш Telegram ID (узнать можно у @userinfobot)
+BOT_TOKEN = "8342142309:AAHnGHfqM5M0_PI1WjJkfscvRk-yZemM8Ic"          # токен от @BotFather
+ADMIN_ID = 5000488732                   # ваш Telegram ID (узнать можно у @userinfobot)
 ADMIN_PASSWORD = "maksumtop1"          # пароль для входа в /admin
 CARD_NUMBER = "2202 2083 0536 9622"
 CHANNEL_LINK = "https://t.me/+0D3hMBZtdcc3Y2Uy"
